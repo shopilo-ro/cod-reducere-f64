@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-f64",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere F64 de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-f64",
+    "voucher-f64",
+    "cupon-f64",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/f64.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-f64.git"
+  }
+}
